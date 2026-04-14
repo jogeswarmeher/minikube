@@ -2,6 +2,7 @@ Here is a complete step-by-step flow using Minikube from start to accessing your
 
 🧱 Step 1: Start Minikube
 minikube start
+
 🔍 Step 2: Verify Cluster
 kubectl get nodes
 
